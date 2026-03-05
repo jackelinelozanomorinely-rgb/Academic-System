@@ -25,7 +25,7 @@ public class Teacher {
         this.specialty = specialty;
     }
 
-    // --- GETTERS AND SETTERS ---
+    // Getters And Setters
 
     public int getId() {
         return id;
@@ -67,7 +67,7 @@ public class Teacher {
         this.specialty = specialty;
     }
 
-    // --- METHODS ---
+    //methods
 
     public Teacher createTeacher(Teacher teacher) {
         System.out.println("Ingrese el ID del Profesor:");
